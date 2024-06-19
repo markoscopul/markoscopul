@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @markoscopul, Welcome to my GitHub profile!
-- 👀 I’m interested in FiveM Scripting
+- 👀 I’m interested in FiveM Developing
 - 🌱 I’m currently working on my FiveM server "Luxury Roleplay"
-- 📫 How to reach me scopul.
+- 📫 How to reach me Discord: scopul.
